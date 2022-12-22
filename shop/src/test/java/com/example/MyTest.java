@@ -1,3 +1,5 @@
-public class MyTest()  {
+package com.example;
+
+public class MyTest {
   
 }
